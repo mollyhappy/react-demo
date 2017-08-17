@@ -3,7 +3,7 @@ title: 一步一步进入React的世界（React+Webpack+ES6组合配置）
 tags:    
 - React
 - Webpack    
-categories: 前端术
+categories: 前端
 ---
 
 
