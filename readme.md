@@ -3,7 +3,7 @@ title: 一步一步进入React的世界（React+Webpack+ES6组合配置）
 tags:    
 - React
 - Webpack    
-categories: 前端技术
+categories: 前端术
 ---
 
 
@@ -44,7 +44,7 @@ page: "./src/app.js"
 ```
 webpack.config.js
 ```javascript
-{ test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' }
+{ test: /\.js$/, exclude: /es/, loader: 'babel-loader' }
 ```
 .babelrc
 ```javascript
